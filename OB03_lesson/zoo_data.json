@@ -1,0 +1,45 @@
+{
+    "name": "Мир животных",
+    "animals": [
+        {
+            "__type__": "Bird",
+            "name": "Попугай",
+            "age": 2,
+            "__dict__": {
+                "name": "Попугай",
+                "age": 2,
+                "can_fly": true
+            }
+        },
+        {
+            "__type__": "Mammal",
+            "name": "Тигр",
+            "age": 5,
+            "__dict__": {
+                "name": "Тигр",
+                "age": 5,
+                "fur_color": "оранжевый"
+            }
+        },
+        {
+            "__type__": "Reptile",
+            "name": "Кобра",
+            "age": 3,
+            "__dict__": {
+                "name": "Кобра",
+                "age": 3,
+                "is_venomous": true
+            }
+        }
+    ],
+    "staff": [
+        {
+            "__type__": "ZooKeeper",
+            "name": "Андрей"
+        },
+        {
+            "__type__": "Veterinarian",
+            "name": "Мария"
+        }
+    ]
+}
