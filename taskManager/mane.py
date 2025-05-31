@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import os
 
-bot = telebot.TeleBot("7444456257:AAFnxtKc839wDlTBoGw3dOxwy9_mJAP8jU0")
+bot = telebot.TeleBot("API TOKEN")
 TASK_FILE = "tasks.json"
 tasks = []
 
