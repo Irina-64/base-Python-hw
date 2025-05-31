@@ -9,7 +9,7 @@ from pytz import timezone
 import datetime
 
 # Токен Telegram-бота
-bot = telebot.TeleBot('8179812229:AAE_5nLhL0N5waWFsgakivhDyBRHdaX1-0s')
+bot = telebot.TeleBot('API TOCKEN')
 
 # Файл для хранения подписчиков
 USERS_FILE = "users.json"
